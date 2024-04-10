@@ -25,6 +25,7 @@ CSS Styling: Enhances the visual appearance of HTML elements with custom styles 
 Fetch Products: Uses the Fetch API to retrieve product data from the API endpoint (https://fakestoreapi.com/products).
 Display Products: Renders the fetched product data dynamically within the table format.
 Load More Functionality: Implements the logic to load additional products upon clicking the "Load More" button.
+
 Before: 
 ![image](https://github.com/mekalasanthosh2001/Fetch-Project-in-JavaScript/assets/104013993/67fe98c5-8e40-486c-b02c-6937bfec452d)
 
